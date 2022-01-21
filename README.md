@@ -2,7 +2,7 @@
 
 -----------------------
 DESCRIPTION
-In this assignment I have create two programs, an encoder and a decoder. The encoder will encode a file into a 
+Creates an encoder and a decoder. The encoder will encode a file into a 
 compressed version and the decoder will decode the compressed version into the original file.
 
 -----------------------
